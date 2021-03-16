@@ -27,7 +27,7 @@ $ git remote add origin https://github.com/edutak/fist.git
 ## `push`
 
 ```bash
-$ git puch origin master
+$ git push origin master
 Enumerating objects: 7, done.
 Counting objects: 100% (7/7), done.
 Delta compression using up to 4 threads
