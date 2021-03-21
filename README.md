@@ -1,8 +1,8 @@
 # Git & Github 특강
 
-> 매일 학습내용 기록을 위한 파일
+> git, github 개념 및 사용법 강의
 
-## 1일차
+## 내용
 
 * markdown & git & github 기초 학습
   * markdown 기본 언어
